@@ -1,0 +1,3 @@
+{"nodes":[{"name":"Enter a Movie or Actor to the left.","group":1},{"name":"Explore!","group":1},{"name":"Have Fun!","group":1},{"name":"Learn!","group":1},{"name":"Click And Drag Me!","group":1}], 
+"links":[{"source":0,"target":1},{"source":0,"target":2},{"source":0,"target":3,"value":1},{"source":0,"target":4,"value":1}]}
+

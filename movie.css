@@ -1,0 +1,50 @@
+
+/* begin links and nodes */
+.link {
+  stroke: #ccc;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+/* begin controller */
+.controller {
+    position: fixed;
+    width: 220px;
+    height: 500px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.nav {
+    clear: both;
+}
+
+.media {
+    clear: both;
+    display: none;
+}
+
+.progress {
+	visibility: hidden;
+}
+
+.alert {
+    display: none;
+}
+/* Disable highlighting */
+html {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
